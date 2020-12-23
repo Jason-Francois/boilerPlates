@@ -1,3 +1,2 @@
 # boilerPlates
-
-This is just a repo of different boilerplates that make my workflow easier.
+Repo for Boiler Plates that ease development
